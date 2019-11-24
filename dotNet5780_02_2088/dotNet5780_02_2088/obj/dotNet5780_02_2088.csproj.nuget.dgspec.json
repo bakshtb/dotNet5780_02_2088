@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\baruch\\source\\repos\\bakshtb\\dotNet5780_02_2088\\dotNet5780_02_2088\\dotNet5780_02_2088\\dotNet5780_02_2088.csproj": {}
+    "C:\\Users\\baruch\\Source\\Repos\\bakshtb\\dotNet5780_02_2088\\dotNet5780_02_2088\\dotNet5780_02_2088\\dotNet5780_02_2088.csproj": {}
   },
   "projects": {
-    "C:\\Users\\baruch\\source\\repos\\bakshtb\\dotNet5780_02_2088\\dotNet5780_02_2088\\dotNet5780_02_2088\\dotNet5780_02_2088.csproj": {
+    "C:\\Users\\baruch\\Source\\Repos\\bakshtb\\dotNet5780_02_2088\\dotNet5780_02_2088\\dotNet5780_02_2088\\dotNet5780_02_2088.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\baruch\\source\\repos\\bakshtb\\dotNet5780_02_2088\\dotNet5780_02_2088\\dotNet5780_02_2088\\dotNet5780_02_2088.csproj",
+        "projectUniqueName": "C:\\Users\\baruch\\Source\\Repos\\bakshtb\\dotNet5780_02_2088\\dotNet5780_02_2088\\dotNet5780_02_2088\\dotNet5780_02_2088.csproj",
         "projectName": "dotNet5780_02_2088",
-        "projectPath": "C:\\Users\\baruch\\source\\repos\\bakshtb\\dotNet5780_02_2088\\dotNet5780_02_2088\\dotNet5780_02_2088\\dotNet5780_02_2088.csproj",
+        "projectPath": "C:\\Users\\baruch\\Source\\Repos\\bakshtb\\dotNet5780_02_2088\\dotNet5780_02_2088\\dotNet5780_02_2088\\dotNet5780_02_2088.csproj",
         "packagesPath": "C:\\Users\\baruch\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\baruch\\source\\repos\\bakshtb\\dotNet5780_02_2088\\dotNet5780_02_2088\\dotNet5780_02_2088\\obj\\",
+        "outputPath": "C:\\Users\\baruch\\Source\\Repos\\bakshtb\\dotNet5780_02_2088\\dotNet5780_02_2088\\dotNet5780_02_2088\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\baruch\\AppData\\Roaming\\NuGet\\NuGet.Config",
