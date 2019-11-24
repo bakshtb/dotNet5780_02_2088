@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\baruch\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\baruch\\.nuget\\packages"
+    ]
+  }
+}

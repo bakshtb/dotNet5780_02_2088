@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "dotNet5780_02_2088/1.0.0": {
+        "runtime": {
+          "dotNet5780_02_2088.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dotNet5780_02_2088/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
